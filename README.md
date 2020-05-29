@@ -6,7 +6,7 @@ Click on the folder for the pack you want, download the latest version zipfile a
 
 ## The Missing Sandwich
 
-A Minecraft adventure map involving fun game mechanics, custom sounds, models, textures, etc. The programming in this map is relatively linear, as the majority of the game's elements are hardcoded into the datapack. This can be used as a map template for those who are just entering into mapmaking.
+A Minecraft adventure map involving fun missions, game mechanics, custom sounds, models, textures, etc. This can be used as a map template for those who are just entering into mapmaking.
 
 ## Annoying Ghosts
 
