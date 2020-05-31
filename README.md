@@ -12,7 +12,7 @@ A Minecraft adventure map involving fun missions, game mechanics, custom sounds,
 
 A Minecraft adventure map involving sucking up ghosts with custom-programmed tools in a giant mansion. Players are meant to go on various missions that involve encountering ghosts, playing minigames, etc. The datapack for this map is well-programmed. Again, for those interested in learning how to create detailed Minecraft maps, this works great as well. 
 
-## Additional Information
+## Additional Maps
 
 Please refer to bendatsko.com for additional information on the maps listed on this page.
 
