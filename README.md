@@ -14,5 +14,5 @@ A Minecraft adventure map involving sucking up ghosts with custom-programmed too
 
 ## Additional Maps
 
-Please refer to bendatsko.com for additional information on the maps listed on this page.
+Please refer to datsko.dev for additional information on the maps listed on this page.
 
